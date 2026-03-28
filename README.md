@@ -144,6 +144,29 @@ The app uses SQLite with the following tables:
 6. Try dark mode  
 
 --- 
+## 📱 MyMoneyPal App Preview
+
+Here’s a look at the main features of **MyMoneyPal**:
+
+### Sign In
+![Sign In](screenshots/signin.png)
+
+### Home Dashboard
+![Home Graph](screenshots/homegraph.png)  
+![Home Report](screenshots/homereport.png)
+
+### Budget & Expenses
+![Budgets](screenshots/budgets.png)  
+![Expenses](screenshots/expenses.png)
+
+### Income Tracking
+![Income](screenshots/income.png)
+
+### Settings
+![Settings](screenshots/settings.png)
+
+--- 
+
 
 ## 👤 Authors
 
